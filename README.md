@@ -27,7 +27,7 @@ zone:
 
 <br>
 
-🚫&nbsp N/A
+🚫 N/A
 
 
 ***
@@ -35,7 +35,7 @@ zone:
 
 <br>
 
-🚫&nbsp N/A
+🚫 N/A
 
 
 
