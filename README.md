@@ -1,7 +1,7 @@
 # dataPreprocessingForEquipmentFailureAssesment
 
-## 📘&nbsp Basic Overview
 ***
+## 📘 Basic Overview
 
 <br>
 
@@ -22,17 +22,16 @@ zone:
 
 – Average amount of failures across equipment group, ordering by the amount of failures in ascending order?
 
-## 🚀&nbsp How To Use
 ***
+## 🚀 How To Use
 
 <br>
 
 🚫&nbsp N/A
 
 
-
-## ❤️&nbsp You may also like...
 ***
+## ❤️ You may also like...
 
 <br>
 
