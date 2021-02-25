@@ -21,13 +21,13 @@ zone:
 
 <br>
 
-– Total equipment failures that happened?
+- Total equipment failures that happened?
 
 
-– Which equipment code had most failures?
+- Which equipment code had most failures?
 
 
-– Average amount of failures across equipment group, ordering by the amount of failures in ascending order?
+- Average amount of failures across equipment group, ordering by the amount of failures in ascending order?
 
 
 ***
