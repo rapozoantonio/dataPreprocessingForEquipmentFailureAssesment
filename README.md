@@ -14,6 +14,13 @@ You are provided 3 files: the log file named equipment_failure_sensors.log; the 
 To solve this problem, we expect you to answer a few questions related to January 2020 considering GMT time
 zone:
 
+
+
+***
+## 🚀 How To Use
+
+<br>
+
 – Total equipment failures that happened?
 
 
@@ -21,13 +28,6 @@ zone:
 
 
 – Average amount of failures across equipment group, ordering by the amount of failures in ascending order?
-
-***
-## 🚀 How To Use
-
-<br>
-
-🚫 N/A
 
 
 ***
